@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaevePark&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaevePark&layout=compact&theme=gruvbox)
