@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaevePark&show_icons=true&theme=gruvbox) // 커밋 수
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaevePark&layout=compact&theme=gruvbox) // 사용언어
 -->
-
-![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaevePark&show_icons=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaevePark&layout=compact&theme=gruvbox)
