@@ -2,7 +2,6 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMaevePark%2Fhit-counter&count_bg=%23CC7ECB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaevePark&theme=nord_dark)
 <!--
 **MaevePark/MaevePark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,4 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaevePark&show_icons=true&theme=gruvbox) // 커밋 수
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaevePark&layout=compact&theme=gruvbox) // 사용언어
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaevePark&theme=nord_dark) // 기여도 체크
 -->
