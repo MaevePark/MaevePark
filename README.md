@@ -22,8 +22,9 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MaevePark&show_icons=true">
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaevePark&layout=compact&theme=gruvbox)  
+<img src="https://github-readme-stats.vercel.app/api?username=MaevePark&show_icons=true">
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaevePark&theme=nord_dark)
 
 <hr>
