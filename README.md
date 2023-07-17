@@ -24,8 +24,7 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaevePark&layout=compact&theme=gruvbox)  
-<img src="https://github-readme-stats.vercel.app/api?username=MaevePark&show_icons=true">
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaevePark&theme=nord_dark)
+
 
 <hr>
 
